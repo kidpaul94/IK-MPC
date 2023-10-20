@@ -1,5 +1,5 @@
 <p align="center">
-<img src=./images/example.gif width=40% height=40%>
+<img src=./Images/example.gif width=45% height=45%>
 </p>
 
 # IK-MPC
