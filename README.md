@@ -11,6 +11,9 @@
 
 Inverse Kinematics-based Model Predictive Control for Robot Motion Planning. Using Numerical inverse kinematics of a URDF model and Linear Quadratic Model Predictive Control (LQ-MPC), this code computes desired joint commands to follow reference path(s) that a robot needs to follow. Original MATLAB version and detailed documentation are available at [manipulator-mpc](https://github.com/twtoner/manipulator-mpc).
 
+## Acknowledgment
+
+Thanks for [Tyler Toner](https://www.linkedin.com/in/twtoner/) to share the [codes base](https://github.com/twtoner/manipulator-mpc) with us.
 
 ## Table of Contents
 
