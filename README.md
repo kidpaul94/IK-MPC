@@ -13,7 +13,7 @@ Inverse Kinematics-based Model Predictive Control for Robot Motion Planning. Usi
 
 ## Acknowledgment
 
-Thanks for [Tyler Toner](https://www.linkedin.com/in/twtoner/) to share the [codes base](https://github.com/twtoner/manipulator-mpc) with us.
+Thanks for [Tyler Toner](https://www.linkedin.com/in/twtoner/) to share the [code base](https://github.com/twtoner/manipulator-mpc) with us.
 
 ## Table of Contents
 
