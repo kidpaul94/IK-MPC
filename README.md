@@ -53,7 +53,7 @@ You need to set absolute paths for each mesh file called by `m0609.urdf`. In `MP
     
 ## How to Apply on Your Robot
 > **Note**
-To apply this code to your own robotic model, you need your custom urdf file. You can build the urdf using any CAD software such as SolidWorks or Fusion360. If you don't want to use a numerical IK, it is also possible to compute an analytical IK by using IKFast. For more details about how to get the IKFast analytical solution, check out [ROS MoveIt](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/ikfast/ikfast_tutorial.html).
+To apply this code to your own robotic model, you need your custom urdf file. You can build the urdf using any CAD software such as SolidWorks or Fusion360. If you don't want to use a numerical IK, it is also possible to compute an analytical IK by using IKFast. For more details about how to get the IKFast analytical solution, check out [ROS MoveIt](http://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html).
 
 ## Citation
     @inproceedings{rtb,
