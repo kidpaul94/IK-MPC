@@ -67,6 +67,6 @@ To apply this code to your own robotic model, you need your custom urdf file. Yo
 
 ## ToDo Lists
 
-| **Documentation** | ![Progress](https://progress-bar.dev/100) |
+| **Documentation** | ![Progress](https://geps.dev/progress/100) |
 | --- | --- |
 
