@@ -46,13 +46,13 @@ Thanks for [Tyler Toner](https://www.linkedin.com/in/twtoner/) to share the [cod
 
 ## How to Run
 
-> **Note**
+> [!NOTE]
 You need to set absolute paths for each mesh file called by `m0609.urdf`. In `MPC_trajectory_following.py`, you also need to provide a path to the urdf you just modified. Then,
 
      python3 MPC_trajectory_following.py
     
 ## How to Apply on Your Robot
-> **Note**
+> [!NOTE]
 To apply this code to your own robotic model, you need your custom urdf file. You can build the urdf using any CAD software such as SolidWorks or Fusion360. If you don't want to use a numerical IK, it is also possible to compute an analytical IK by using IKFast. For more details about how to get the IKFast analytical solution, check out [ROS MoveIt](http://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html).
 
 ## Citation
